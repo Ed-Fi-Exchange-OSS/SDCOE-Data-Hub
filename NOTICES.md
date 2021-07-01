@@ -1,7 +1,7 @@
-# <Insert Repository Name Here> Notices
+# SDCOE-Data-Hub Notices
 
-This product includes software developed at the [Ed-Fi
-Alliance](https://www.ed-fi.org).
+This product includes software developed at the [San Diego County Office of Education](https://www.sdcoe.net/)
+and [Ed-Fi Alliance](https://www.ed-fi.org).
 
 Copyright (c) 2021 Ed-Fi Alliance, LLC and contributors.
 
