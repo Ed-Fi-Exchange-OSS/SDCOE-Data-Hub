@@ -1,0 +1,91 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "SDCOEDatahubContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": true,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Data.Entities",
+   "OutputContextPath": "",
+   "OutputPath": "Data",
+   "ProjectRootNamespace": "DataHub.Api",
+   "Schemas": [
+      {
+         "Name": "datahub"
+      }
+   ],
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[datahub].[ActivityLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[Announcement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[CRMContact]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[EdFiODS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[EdFiODSClient]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[EdFiRequest]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[Extract]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[ODSStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[ODSStatusJob]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[Offering]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[Organization]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[Participation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[Support]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[datahub].[User]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-8JHE46E.SDCOE_DataHub",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}

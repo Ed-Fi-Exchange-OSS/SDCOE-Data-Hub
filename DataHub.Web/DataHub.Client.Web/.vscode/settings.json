@@ -1,0 +1,28 @@
+{
+    // peacock settings
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#356b2c",
+        "activityBar.activeBorder": "#252d5a",
+        "activityBar.background": "#356b2c",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#252d5a",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "editorGroup.border": "#356b2c",
+        "panel.border": "#356b2c",
+        "sideBar.border": "#356b2c",
+        "statusBar.background": "#23471d",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#356b2c",
+        "tab.activeBorder": "#356b2c",
+        "titleBar.activeBackground": "#23471d",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#23471d99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#23471d",
+    // jest settings
+    "jest.pathToJest": "yarn jest:watchAll --",
+    "jest.runAllTestsFirst": false,
+    "jest.showCoverageOnLoad": true
+}
