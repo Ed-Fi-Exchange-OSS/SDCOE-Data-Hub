@@ -4,8 +4,13 @@ This repo contains the DataHub API back end, React web app, and RoundHousE datab
 ## Getting Started
 For development, you will need:
 * A local Microsoft SQL Server instance 
-* Visual Studio 2019 for the API backend 
-* Visual Studio Code for the React client web app
+* API backend:
+  * [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
+  * (optional) Visual Studio 2019
+* Web application:
+  * [Node.js](https://nodejs.org/en/download/)
+  * [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+  * (optional) Visual Studio Code or Visual Studio 2019
 
 In a Powershell admin prompt, run the provided `build.ps1` script. This will: 
 * deploy the SDCOE_DataHub database on your local SQL instance
