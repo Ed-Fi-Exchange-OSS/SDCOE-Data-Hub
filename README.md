@@ -2,11 +2,11 @@
 
 The Data Hub prototype is a multifaceted yet easy-to-use interface between participating organizations (e.g. LEAs) and a collaborative host that manages Ed-Fi ODS's for members.  The portal brings together automated Ed-Fi systems status with an ODS management request capability, access to registered applications, dashboards and services and participant contact information.   
 
-![MSDF_SDCOE_DataHub_Img1](/Users/john.watson/Documents/GitHub/SDCOE-Data-Hub/MSDF_SDCOE_DataHub_Img1.png)
+![MSDF_SDCOE_DataHub_Img1](https://github.com/Ed-Fi-Exchange-OSS/SDCOE-Data-Hub/blob/main/MSDF_SDCOE_DataHub_Img1.png)
 
 When a member organization logs in, the Data Hub displays any active alerts and provides a set of functional interactive "widgets": Ed-Fi status updates, Ed-Fi setup/maintenance requests, services & products selector and list of links to subscribed services (dashboards, 3rd party applications, etc.).  The system has integrated email notifications for interactive features.  Additional demonstration widgets include: a support-ticketing system, an ODS extract status list, and CRM-based contact list.
 
-![MSDF_SDCOE_DataHub_Img2](/Users/john.watson/Documents/GitHub/SDCOE-Data-Hub/MSDF_SDCOE_DataHub_Img2.png)
+![MSDF_SDCOE_DataHub_Img2](https://github.com/Ed-Fi-Exchange-OSS/SDCOE-Data-Hub/blob/main/MSDF_SDCOE_DataHub_Img2.png)
 
 ​		*Data Hub dashboard overview with widgets on left. Ed-Fi request widget zoomed right.*  
 
