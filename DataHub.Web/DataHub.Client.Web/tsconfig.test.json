@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "inlineSourceMap": true,
+        "types": [
+            "jest",
+            "node",
+            "react",
+        ]
+    }
+}

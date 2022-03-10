@@ -1,0 +1,104 @@
+body {
+  background-color: #fff !important;
+}
+
+.theme-bg {
+  background-color: #1377B3;
+}
+
+
+.header-top{
+  border-bottom: 2px solid #ededed;
+}
+.header-logo {
+  display: inline-block;
+  border-right: 1px solid #ededed;
+  padding-right: 16px;
+  margin-right: 16px;
+}
+
+.header-bottom{
+  box-shadow: 0 2px 0 #ededed;
+}
+
+.navbar-brand span{
+  font-size: 1rem;
+  font-weight: 600;
+  color: #a9a9a9;}
+
+.nav-link{
+  display: block;
+  font-weight: 600;
+  color: #5a5a5a;
+}
+
+.nav-link.active{
+  color: #005488 !important;
+  font-weight: 800;
+  border-bottom: 3px solid #0ab1f1;  
+}
+
+.footer-top{
+  background-color: #005488;
+}
+
+.footer-bottom {
+  background-color: #004068;
+  text-align: center;
+  padding: 16px 0px;
+  font-size: 14px;
+  line-height: 16px;}
+
+.font-small {
+  font-size: small;
+}
+
+.font-smaller {
+  font-size: smaller;
+}
+
+.font-x-small {
+  font-size: x-small;
+}
+
+.card {
+  margin: 10px 5px;
+  min-height: 200px;
+}
+
+.modal-table{
+  max-height: 500px;
+  overflow-x: auto;
+  font-size: 0.95rem;
+}
+
+
+
+
+
+@media (max-width: 768px){
+  .navbar-brand img {
+    max-width: 150px;
+  }
+  .navbar-brand span {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 993px){
+  .dash-columns{
+    column-count: 2
+  }
+}
+
+@media (max-width: 992px){
+  .dash-columns {
+      column-count: 1;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+  .header-bottom .navbar-nav{
+    font-size: 12px;
+  }
+}

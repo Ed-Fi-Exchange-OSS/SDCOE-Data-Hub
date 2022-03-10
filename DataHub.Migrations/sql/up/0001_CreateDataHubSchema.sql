@@ -1,0 +1,2 @@
+CREATE SCHEMA [datahub] AUTHORIZATION [dbo]
+GO
